@@ -1,0 +1,13 @@
+{
+  "name": "SolveSync",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Sync solved problems to GitHub",
+
+  "content_scripts": [
+    {
+      "matches": ["https://leetcode.com/problems/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
