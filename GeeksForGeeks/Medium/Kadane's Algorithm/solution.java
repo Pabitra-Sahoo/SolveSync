@@ -1,0 +1,1 @@
+class Solution {\n    int maxSubarraySum(int[] arr) {\n        // Code here\n        int maxi=Integer.MIN_VALUE;\n        int sum=0;\n        for(int i=0;i<arr.length;i++){\n            sum+=arr[i];\n            if(sum>maxi)maxi=sum;\n            if(sum<0)sum=0;\n        }\n        return maxi;\n    }\n}\n
