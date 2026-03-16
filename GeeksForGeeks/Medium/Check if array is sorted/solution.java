@@ -1,0 +1,1 @@
+class Solution {\n    public boolean isSorted(int[] arr) {\n        for(int i=1;i<arr.length;i++){\n            if(arr[i]>=arr[i-1]){\n                \n            }\n            else return false;\n        }\n        return true;\n    }\n}
