@@ -9,3 +9,4 @@ Auto-maintained by the SolveSync Chrome Extension.
 | 3 | [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) | GeeksForGeeks | Medium | 17 Mar 2026 | 12:11 am |
 | 4 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&sortBy=submissions) | GeeksForGeeks | Medium | 17 Mar 2026 | 08:39 am |
 | 5 | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&sortBy=submissions) | GeeksForGeeks | Medium | 17 Mar 2026 | 10:01 pm |
+| 6 | [N-Queens](https://leetcode.com/problems/n-queens/) | LeetCode | Hard | 17 Mar 2026 | 10:03 pm |
