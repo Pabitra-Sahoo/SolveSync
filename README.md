@@ -10,3 +10,4 @@ Auto-maintained by the SolveSync Chrome Extension.
 | 4 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&sortBy=submissions) | GeeksForGeeks | Medium | 17 Mar 2026 | 08:39 am |
 | 5 | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&sortBy=submissions) | GeeksForGeeks | Medium | 17 Mar 2026 | 10:01 pm |
 | 6 | [N-Queens](https://leetcode.com/problems/n-queens/) | LeetCode | Hard | 17 Mar 2026 | 10:03 pm |
+| 7 | [Array Duplicates](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&sortBy=submissions) | GeeksForGeeks | Medium | 18 Mar 2026 | 09:18 pm |
