@@ -1,16 +1,17 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-03-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": [
-    "GeeksForGeeks_Trapping_Rain_Water"
+    "GeeksForGeeks_Trapping_Rain_Water",
+    "GeeksForGeeks_Detect_Loop_in_linked_list"
   ]
 }
