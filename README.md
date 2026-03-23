@@ -16,3 +16,4 @@ Auto-maintained by the SolveSync Chrome Extension.
 | 10 | [Kth from End of Linked List](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1?page=3&sortBy=submissions) | GeeksForGeeks | Medium | 23 Mar 2026 | 10:43 pm |
 | 11 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1?page=7&sortBy=submissions) | GeeksForGeeks | Easy | 23 Mar 2026 | 11:11 pm |
 | 12 | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?page=7&sortBy=submissions) | GeeksForGeeks | Basic | 23 Mar 2026 | 11:15 pm |
+| 13 | [Edit Distance](https://www.geeksforgeeks.org/problems/edit-distance3702/1?page=9&sortBy=submissions) | GeeksForGeeks | Hard | 23 Mar 2026 | 11:20 pm |
