@@ -14,3 +14,4 @@ Auto-maintained by the SolveSync Chrome Extension.
 | 8 | [Trapping Rain Water](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1?page=2&sortBy=submissions) | GeeksForGeeks | Medium | 23 Mar 2026 | 10:39 pm |
 | 9 | [Detect Loop in linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1?page=2&sortBy=submissions) | GeeksForGeeks | Medium | 23 Mar 2026 | 10:42 pm |
 | 10 | [Kth from End of Linked List](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1?page=3&sortBy=submissions) | GeeksForGeeks | Medium | 23 Mar 2026 | 10:43 pm |
+| 11 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1?page=7&sortBy=submissions) | GeeksForGeeks | Easy | 23 Mar 2026 | 11:11 pm |
