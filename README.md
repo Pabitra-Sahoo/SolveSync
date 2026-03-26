@@ -18,3 +18,4 @@ Auto-maintained by the SolveSync Chrome Extension.
 | 12 | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?page=7&sortBy=submissions) | GeeksForGeeks | Basic | 23 Mar 2026 | 11:15 pm |
 | 13 | [Edit Distance](https://www.geeksforgeeks.org/problems/edit-distance3702/1?page=9&sortBy=submissions) | GeeksForGeeks | Hard | 23 Mar 2026 | 11:20 pm |
 | 14 | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?page=9&sortBy=submissions) | GeeksForGeeks | Easy | 23 Mar 2026 | 11:50 pm |
+| 15 | [Check Equal Arrays](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=3&sortBy=submissions) | GeeksForGeeks | Easy | 26 Mar 2026 | 11:37 pm |
