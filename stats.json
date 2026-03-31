@@ -1,26 +1,28 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-03-31",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 3,
     "medium": 1,
     "hard": 1,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "GeeksForGeeks_Check_Equal_Arrays": true,
     "GeeksForGeeks_Pair_With_Difference": true,
     "GeeksForGeeks_Minimum_Jumps": true,
     "LeetCode_Lexicographically_Smallest_Generated_String": true,
-    "LeetCode_Same_Tree": true
+    "LeetCode_Same_Tree": true,
+    "GeeksForGeeks_C++_Hello_World": true
   },
   "activityHistory": {
-    "2026-03-31": 3
+    "2026-03-31": 4
   },
   "todayProblems": [
-    "Same Tree"
+    "Same Tree",
+    "C++ Hello World"
   ]
 }
