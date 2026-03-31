@@ -20,3 +20,4 @@ Auto-maintained by the SolveSync Chrome Extension.
 | 14 | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?page=9&sortBy=submissions) | GeeksForGeeks | Easy | 23 Mar 2026 | 11:50 pm |
 | 15 | [Check Equal Arrays](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=3&sortBy=submissions) | GeeksForGeeks | Easy | 26 Mar 2026 | 11:37 pm |
 | 16 | [Pair With Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1?page=7&sortBy=submissions) | GeeksForGeeks | Easy | 26 Mar 2026 | 11:44 pm |
+| 17 | [Minimum Jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&sortBy=submissions) | GeeksForGeeks | Medium | 31 Mar 2026 | 08:51 am |
