@@ -24,3 +24,4 @@ Auto-maintained by the SolveSync Chrome Extension.
 | 18 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | LeetCode | Hard | 31 Mar 2026 | 08:56 am |
 | 19 | [Same Tree](https://leetcode.com/problems/same-tree/) | LeetCode | Easy | 31 Mar 2026 | 08:57 pm |
 | 20 | [C++ Hello World](https://www.geeksforgeeks.org/problems/c-hello-world3402/1?page=2&difficulty=Basic&sortBy=submissions) | GeeksForGeeks | Basic | 31 Mar 2026 | 11:33 pm |
+| 21 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | LeetCode | Hard | 01 Apr 2026 | 10:42 pm |
